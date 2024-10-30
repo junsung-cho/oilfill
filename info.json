@@ -1,0 +1,10 @@
+{
+  "name": "oilfill",
+  "version": "1.0.0",
+  "factorio_version": "2.0",
+  "title": "Oilfill",
+  "author": "Junsung Cho",
+  "homepage": "",
+  "description": "Allows the placement of oil ocean just like landfill.",
+  "dependencies": ["base >= 2.0.0", "space-age >= 2.0.0"]
+}
